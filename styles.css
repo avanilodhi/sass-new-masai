@@ -1,17 +1,17 @@
 .square {
     width: 100px;
     height: 100px;
-    background-color: #ff6347;
+    background-color: blue;
   }
   
   .circle {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    border: 2px solid #ff6347;
+    border: 2px solid blue;
   }
   
   .heading {
-    color: #ff6347;
+    color: blue;
   }
   
